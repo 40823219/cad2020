@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': '每週作業', 'text': '', 'tags': '', 'url': '每週作業.html'}, {'title': 'w1', 'text': '', 'tags': '', 'url': 'w1.html'}]};
